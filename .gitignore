@@ -1,0 +1,7 @@
+venv
+trash
+data/*
+cleaner
+*.h5
+*.csv
+*.xlsx
